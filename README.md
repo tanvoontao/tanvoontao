@@ -1,16 +1,31 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Voon Tao!</h1>
+<h2 align="center">A Full Stack Developer from Malaysia. </h2>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=tanvoontao&style=for-the-badge"></p>
 
-<!--
-**tanvoontao/tanvoontao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 😜 Coding Dreams Into **Reality**, One Line At A Time.
 
-Here are some ideas to get you started:
+## <img src="https://media.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.gif" width="40px"/> Who am I?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Working remotely for [Jizen PLT](https://jizen.net/) as a **Software Developer**
+- BCS Student from [Swinburne University of Technology Sarawak (SUTS)](https://www.swinburne.edu.my/)
+- Portfolio : <a href="https://itsvoontao.vercel.app/" target="_blank">Portfolio | Tan Voon Tao</a>
+- Linkedln : <a href="https://www.linkedin.com/in/voon-tao-tan" target="_blank">https://www.linkedin.com/in/voon-tao-tan</a>
+- Email : <a href="mailto:tanvoontao0908@gmail.com" target="_blank">tanvoontao0908@gmail.com
+</a> 
+
+## <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="40px"/> Technologies & Tools
+
+### Frontend
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,solidjs,wasm,tailwind,bootstrap,sass,php,kotlin&perline=10" alt="Tech Stack" /> </p>
+
+### Backend
+<p align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,firebase,dotnet,aws,gcp,python&perline=10" alt="Tech Stack" /></p>
+
+### Database
+<p align="center"><img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&perline=10" alt="Tech Stack" /> </p>
+
+### Tool
+<p align="center"><img src="https://skillicons.dev/icons?i=git,github,vercel,visualstudio,vscode,postman,kubernetes,docker,androidstudio&perline=10" alt="Tech Stack" /> </p>
+
+
+## <img src="https://media.giphy.com/media/uhWLu2lsU0rfLiwYlI/giphy.gif" width="40px" /> Stats
