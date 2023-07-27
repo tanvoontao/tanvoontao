@@ -45,6 +45,11 @@
 | <img src="https://github-readme-stats.vercel.app/api?username=tanvoontao&show_icons=true&theme=dark&count_private=true"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanvoontao&theme=dark&count_private=true"/> |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
 
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C901%20hrs%2022%20mins-blue)
+
+<!--END_SECTION:waka-->
+
 
 <img
   src="https://github.com/tanvoontao/tanvoontao/blob/main/images/stat.svg"
