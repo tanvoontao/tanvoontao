@@ -41,7 +41,6 @@
   <img alt="GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=tanvoontao&theme=darkhub&row=5&column=4&margin-w=10&margin-h=10" />
 </p>
 
-## 🧮 Github Stats
 | <img src="https://github-readme-stats.vercel.app/api?username=tanvoontao&show_icons=true&theme=dark&count_private=true"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanvoontao&theme=dark&count_private=true"/> |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
 
