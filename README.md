@@ -53,7 +53,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 529.8 kB Used in GitHub's Storage 
+> 📦 535.3 kB Used in GitHub's Storage 
  > 
 > 🏆 245 Contributions in the Year 2023
  > 
@@ -120,5 +120,5 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tanvoontao/tanvoontao/main/assets/bar_graph.png)
 
 
- Last Updated on 30/11/2023 00:39:40 UTC
+ Last Updated on 01/12/2023 00:43:11 UTC
 <!--END_SECTION:waka-->
