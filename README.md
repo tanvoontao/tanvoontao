@@ -47,21 +47,21 @@
 | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-306%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-306%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 678.2 kB Used in GitHub's Storage 
+> 📦 697.9 kB Used in GitHub's Storage 
  > 
 > 🏆 245 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 19 Public Repositories 
+> 📜 18 Public Repositories 
  > 
-> 🔑 7 Private Repositories 
+> 🔑 8 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -90,17 +90,17 @@ Sunday                   119 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   18 hrs 9 mins       ███████████████████░░░░░░   76.58 % 
-TypeScript               5 hrs               █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
-JavaScript               20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Python                   18 hrs 21 mins      ███████████████████░░░░░░   77.92 % 
+TypeScript               5 hrs               █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
 CSV                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 42 mins      █████████████████████████   100.00 % 
+VS Code                  23 hrs 34 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  23 hrs 42 mins      █████████████████████████   100.00 % 
+Windows                  23 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -120,5 +120,5 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tanvoontao/tanvoontao/main/assets/bar_graph.png)
 
 
- Last Updated on 08/12/2023 00:39:36 UTC
+ Last Updated on 09/12/2023 00:38:24 UTC
 <!--END_SECTION:waka-->
