@@ -47,15 +47,13 @@
 | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-781%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-786%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 698.0 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,13 +88,17 @@ Sunday                   119 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               3 hrs 24 mins       ██████████████████░░░░░░░   71.69 % 
+Bash                     30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+Markdown                 18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+Python                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 45 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -116,5 +118,5 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tanvoontao/tanvoontao/main/assets/bar_graph.png)
 
 
- Last Updated on 08/08/2024 00:44:20 UTC
+ Last Updated on 09/08/2024 00:44:34 UTC
 <!--END_SECTION:waka-->
