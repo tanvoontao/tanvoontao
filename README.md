@@ -55,8 +55,6 @@
 
 > 📦 698.0 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 18 Public Repositories 
@@ -90,16 +88,13 @@ Sunday                   119 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-TypeScript               3 hrs 44 mins       ████████████████████████░   95.66 % 
-SCSS                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 54 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 54 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -119,5 +114,5 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tanvoontao/tanvoontao/main/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2024 00:44:33 UTC
+ Last Updated on 21/08/2024 00:43:56 UTC
 <!--END_SECTION:waka-->
