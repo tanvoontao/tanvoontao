@@ -47,9 +47,9 @@
 | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-794%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-796%20hrs%2012%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
@@ -90,13 +90,16 @@ Sunday                   119 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               15 mins             ██████████░░░░░░░░░░░░░░░   38.66 % 
+Markdown                 9 mins              ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
+JSON                     9 mins              ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
+Bash                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  39 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  39 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -116,5 +119,5 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tanvoontao/tanvoontao/main/assets/bar_graph.png)
 
 
- Last Updated on 14/01/2025 00:48:38 UTC
+ Last Updated on 15/01/2025 00:51:06 UTC
 <!--END_SECTION:waka-->
