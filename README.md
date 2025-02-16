@@ -1,7 +1,7 @@
 <img src="./assets/banner.png"  style="width:100%;"/>
 
 <h1 align="center">Hi 👋, I'm Voon Tao!</h1>
-<h2 align="center">A Full Stack Developer from Malaysia. </h2>
+<h2 align="center">A Software & AI Engineer from Malaysia. </h2>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=tanvoontao&style=for-the-badge"></p>
 
 > <samp>
@@ -15,9 +15,9 @@
 - I'm Voon Tao (Grayson) Tan
 - Working remotely for [Jizen PLT](https://jizen.net/) as a **Software Developer**
 - BCS Student from [Swinburne University of Technology](https://www.swinburne.edu.au/)
-- Portfolio : `<a href="https://itsvoontao.vercel.app/" target="_blank">`Portfolio | Tan Voon Tao`</a>`
-- Linkedln : `<a href="https://www.linkedin.com/in/voon-tao-tan" target="_blank">`https://www.linkedin.com/in/voon-tao-tan`</a>`
-- Email : `<a href="mailto:tanvoontao0908@gmail.com" target="_blank">`tanvoontao0908@gmail.com`</a>`
+- Portfolio : <a href="https://itsvoontao.vercel.app/" target="_blank">Portfolio | Tan Voon Tao</a>
+- Linkedln : <a href="https://www.linkedin.com/in/voon-tao-tan" target="_blank">https://www.linkedin.com/in/voon-tao-tan</a>
+- Email : <a href="mailto:tanvoontao0908@gmail.com" target="_blank">tanvoontao0908@gmail.com</a>
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzh4a3p0bHZ0MDcwZnNjNmowdmZtZ3Z5N3ViYmR6NnRzNXNzaHJ4YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YAY5eiADiELfKAZJeV/giphy.gif" width="40px"/> Current
 
