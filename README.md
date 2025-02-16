@@ -13,8 +13,8 @@
 <img src="https://media.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.gif" width="40px"/> Who am I?
 
 - I'm Voon Tao (Grayson) Tan
-- Working remotely for [Jizen PLT](https://jizen.net/) as a **Software Developer**
-- BCS Student from [Swinburne University of Technology](https://www.swinburne.edu.au/)
+- Working remotely for [Jizen PLT](https://jizen.net/) as a **Software Engineer**
+- Postgraduate Computer Science Student at [Swinburne University of Technology](https://www.swinburne.edu.au/)
 - Portfolio : <a href="https://itsvoontao.vercel.app/" target="_blank">Portfolio | Tan Voon Tao</a>
 - Linkedln : <a href="https://www.linkedin.com/in/voon-tao-tan" target="_blank">https://www.linkedin.com/in/voon-tao-tan</a>
 - Email : <a href="mailto:tanvoontao0908@gmail.com" target="_blank">tanvoontao0908@gmail.com</a>
@@ -50,7 +50,7 @@
 
 <!--END_SECTION:waka-->
 
-# Design Inspired By:
+### Design Inspired By:
 
 * https://github.com/taimoon
 * https://github.com/OysterD3
