@@ -43,7 +43,7 @@
 <p align="center"><img src="https://skillicons.dev/icons?i=git,github,vercel,visualstudio,vscode,postman,kubernetes,docker,androidstudio&perline=10" alt="Tech Stack" /> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-829%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-836%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
@@ -84,16 +84,17 @@ Sunday                   119 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-TypeScript               4 hrs 6 mins        ████████████████████████░   94.93 % 
-C#                       5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+TypeScript               8 hrs 20 mins       ██████████████████████░░░   86.16 % 
+C#                       1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+CSHTML                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 20 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 41 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 20 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -113,7 +114,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tanvoontao/tanvoontao/main/assets/bar_graph.png)
 
 
- Last Updated on 19/02/2025 00:51:56 UTC
+ Last Updated on 20/02/2025 00:51:53 UTC
 <!--END_SECTION:waka-->
 
 ### Design Inspired By:
