@@ -43,13 +43,15 @@
 <p align="center"><img src="https://skillicons.dev/icons?i=git,github,vercel,visualstudio,vscode,postman,kubernetes,docker,androidstudio&perline=10" alt="Tech Stack" /> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-836%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-846%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 698.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -84,17 +86,17 @@ Sunday                   119 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-TypeScript               8 hrs 20 mins       ██████████████████████░░░   86.16 % 
-C#                       1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-CSHTML                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+TypeScript               10 hrs 1 min        █████████████░░░░░░░░░░░░   51.24 % 
+C#                       6 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   33.26 % 
+CSHTML                   1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+SCSS                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+CSS                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 41 mins       █████████████████████████   100.00 % 
+VS Code                  19 hrs 33 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  9 hrs 41 mins       █████████████████████████   100.00 % 
+Windows                  19 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -114,7 +116,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tanvoontao/tanvoontao/main/assets/bar_graph.png)
 
 
- Last Updated on 20/02/2025 00:51:53 UTC
+ Last Updated on 21/02/2025 00:52:04 UTC
 <!--END_SECTION:waka-->
 
 ### Design Inspired By:
