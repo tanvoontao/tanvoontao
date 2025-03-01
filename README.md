@@ -43,15 +43,13 @@
 <p align="center"><img src="https://skillicons.dev/icons?i=git,github,vercel,visualstudio,vscode,postman,kubernetes,docker,androidstudio&perline=10" alt="Tech Stack" /> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-848%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-848%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 698.1 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -86,17 +84,13 @@ Sunday                   119 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-TypeScript               1 hr 18 mins        █████████░░░░░░░░░░░░░░░░   35.72 % 
-CSHTML                   44 mins             █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
-C#                       39 mins             █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
-SCSS                     30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 38 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 38 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -116,7 +110,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tanvoontao/tanvoontao/main/assets/bar_graph.png)
 
 
- Last Updated on 28/02/2025 00:52:47 UTC
+ Last Updated on 01/03/2025 00:56:56 UTC
 <!--END_SECTION:waka-->
 
 ### Design Inspired By:
