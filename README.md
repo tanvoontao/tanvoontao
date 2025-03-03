@@ -43,9 +43,9 @@
 <p align="center"><img src="https://skillicons.dev/icons?i=git,github,vercel,visualstudio,vscode,postman,kubernetes,docker,androidstudio&perline=10" alt="Tech Stack" /> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-853%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-856%20hrs%2019%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
@@ -86,17 +86,17 @@ Sunday                   119 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-TypeScript               3 hrs 3 mins        ██████████████████░░░░░░░   71.50 % 
-C#                       49 mins             █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
-Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
-SQL                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+TypeScript               5 hrs 56 mins       ███████████████████░░░░░░   77.47 % 
+C#                       1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
+Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+SQL                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 16 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 40 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 16 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -116,7 +116,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tanvoontao/tanvoontao/main/assets/bar_graph.png)
 
 
- Last Updated on 02/03/2025 00:56:05 UTC
+ Last Updated on 03/03/2025 00:54:46 UTC
 <!--END_SECTION:waka-->
 
 ### Design Inspired By:
