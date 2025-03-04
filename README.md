@@ -43,15 +43,13 @@
 <p align="center"><img src="https://skillicons.dev/icons?i=git,github,vercel,visualstudio,vscode,postman,kubernetes,docker,androidstudio&perline=10" alt="Tech Stack" /> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-856%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-860%20hrs%2012%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 698.1 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -86,17 +84,17 @@ Sunday                   119 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-TypeScript               5 hrs 56 mins       ███████████████████░░░░░░   77.47 % 
-C#                       1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-SQL                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+TypeScript               8 hrs 12 mins       ███████████████████░░░░░░   75.39 % 
+C#                       2 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
+Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+SQL                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 40 mins       █████████████████████████   100.00 % 
+VS Code                  10 hrs 53 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 hrs 40 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -116,7 +114,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tanvoontao/tanvoontao/main/assets/bar_graph.png)
 
 
- Last Updated on 03/03/2025 00:54:46 UTC
+ Last Updated on 04/03/2025 00:53:36 UTC
 <!--END_SECTION:waka-->
 
 ### Design Inspired By:
