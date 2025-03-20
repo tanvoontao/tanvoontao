@@ -86,17 +86,13 @@ Sunday                   119 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-TypeScript               2 hrs 4 mins        ████████████████░░░░░░░░░   64.87 % 
-C#                       56 mins             ███████░░░░░░░░░░░░░░░░░░   29.55 % 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-Dart                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 12 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 12 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -116,7 +112,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tanvoontao/tanvoontao/main/assets/bar_graph.png)
 
 
- Last Updated on 19/03/2025 00:54:42 UTC
+ Last Updated on 20/03/2025 00:53:50 UTC
 <!--END_SECTION:waka-->
 
 ### Design Inspired By:
