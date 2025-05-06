@@ -49,9 +49,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 698.2 kB Used in GitHub's Storage 
- > 
-> 🏆 2 Contributions in the Year 2025
+> 📦 698.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -112,7 +110,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tanvoontao/tanvoontao/main/assets/bar_graph.png)
 
 
- Last Updated on 05/05/2025 01:00:47 UTC
+ Last Updated on 06/05/2025 00:58:17 UTC
 <!--END_SECTION:waka-->
 
 ### Design Inspired By:
