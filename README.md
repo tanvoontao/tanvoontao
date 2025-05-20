@@ -51,8 +51,6 @@
 
 > 📦 698.1 kB Used in GitHub's Storage 
  > 
-> 🏆 2 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 18 Public Repositories 
@@ -99,10 +97,10 @@ No Activity Tracked This Week
 
 ```text
 JavaScript               16 repos            ████████████░░░░░░░░░░░░░   47.06 % 
-Python                   5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Python                   6 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
 Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 ```
 
 
@@ -112,7 +110,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tanvoontao/tanvoontao/main/assets/bar_graph.png)
 
 
- Last Updated on 19/05/2025 01:01:57 UTC
+ Last Updated on 20/05/2025 00:59:58 UTC
 <!--END_SECTION:waka-->
 
 ### Design Inspired By:
