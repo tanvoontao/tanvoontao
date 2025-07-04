@@ -51,8 +51,6 @@
 
 > 📦 698.1 kB Used in GitHub's Storage 
  > 
-> 🏆 4 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 18 Public Repositories 
@@ -112,7 +110,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tanvoontao/tanvoontao/main/assets/bar_graph.png)
 
 
- Last Updated on 03/07/2025 01:01:25 UTC
+ Last Updated on 04/07/2025 01:01:05 UTC
 <!--END_SECTION:waka-->
 
 ### Design Inspired By:
