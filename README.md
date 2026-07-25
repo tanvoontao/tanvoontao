@@ -43,6 +43,8 @@
 <p align="center"><img src="https://skillicons.dev/icons?i=git,github,vercel,visualstudio,vscode,postman,kubernetes,docker,androidstudio&perline=10" alt="Tech Stack" /> </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-866%20hrs%2056%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -57,42 +59,6 @@
  > 
 > 🔑 8 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-🌆 Daytime                472 commits         █████████░░░░░░░░░░░░░░░░   37.25 % 
-🌃 Evening                460 commits         █████████░░░░░░░░░░░░░░░░   36.31 % 
-🌙 Night                  202 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   193 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-Tuesday                  96 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-Wednesday                456 commits         █████████░░░░░░░░░░░░░░░░   35.99 % 
-Thursday                 93 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
-Friday                   156 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-Saturday                 154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-Sunday                   119 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Singapore
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -110,7 +76,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tanvoontao/tanvoontao/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 01:52:28 UTC
+ Last Updated on 25/07/2026 01:52:04 UTC
 <!--END_SECTION:waka-->
 
 ### Design Inspired By:
