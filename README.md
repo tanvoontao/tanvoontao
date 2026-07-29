@@ -59,48 +59,6 @@
  > 
 > 🔑 8 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-🌆 Daytime                472 commits         █████████░░░░░░░░░░░░░░░░   37.25 % 
-🌃 Evening                460 commits         █████████░░░░░░░░░░░░░░░░   36.31 % 
-🌙 Night                  202 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   193 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-Tuesday                  96 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-Wednesday                456 commits         █████████░░░░░░░░░░░░░░░░   35.99 % 
-Thursday                 93 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
-Friday                   156 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-Saturday                 154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-Sunday                   119 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Singapore
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -118,7 +76,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tanvoontao/tanvoontao/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 01:45:39 UTC
+ Last Updated on 29/07/2026 01:47:57 UTC
 <!--END_SECTION:waka-->
 
 ### Design Inspired By:
