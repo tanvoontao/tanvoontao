@@ -88,39 +88,39 @@ Sunday                   119 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Docker                   4 mins              █████████░░░░░░░░░░░░░░░░   35.71 % 
-YAML                     3 mins              ███████░░░░░░░░░░░░░░░░░░   27.06 % 
-JSON                     2 mins              █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
-Other                    1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-C#                       0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+Other                    7 mins              █████████░░░░░░░░░░░░░░░░   35.82 % 
+Docker                   4 mins              █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
+YAML                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+JSON                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+Bash                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
 
 🔥 Editors: 
-VS Code                  10 mins             ██████████████████████░░░   89.24 % 
-Codex Vscode             1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+VS Code                  13 mins             ████████████████░░░░░░░░░   64.18 % 
+Codex Vscode             7 mins              █████████░░░░░░░░░░░░░░░░   35.82 % 
 
 💻 Operating System: 
-Windows                  12 mins             █████████████████████████   100.00 % 
+Windows                  20 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 min (10.76%)
+⏱ AI Coding Time: 7 mins (35.82%)
 
 ✍️ 0 lines written by AI, 65 lines written by hand (0.0% AI-written)
 
-🔤 20,965 Input Tokens, 18,255 Output Tokens
+🔤 79,019 Input Tokens, 31,798 Output Tokens
 
-💵 $0.04 Estimated AI Cost This Week
+💵 $0.09 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 1 AI Prompts
+🧠 2 AI Sessions, 4 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 15 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+📝 Concise Prompter — average 87 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -141,7 +141,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tanvoontao/tanvoontao/main/assets/bar_graph.png)
 
 
- Last Updated on 03/09/2026 02:11:25 UTC
+ Last Updated on 04/09/2026 02:07:44 UTC
 <!--END_SECTION:waka-->
 
 ### Design Inspired By:
