@@ -88,16 +88,13 @@ Sunday                   119 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Docker                   4 mins              ██████████░░░░░░░░░░░░░░░   40.02 % 
-YAML                     3 mins              ████████░░░░░░░░░░░░░░░░░   30.32 % 
-JSON                     2 mins              █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
-C#                       0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -123,7 +120,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tanvoontao/tanvoontao/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2026 02:12:27 UTC
+ Last Updated on 09/09/2026 02:16:00 UTC
 <!--END_SECTION:waka-->
 
 ### Design Inspired By:
